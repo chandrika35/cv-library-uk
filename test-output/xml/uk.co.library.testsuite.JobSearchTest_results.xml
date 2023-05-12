@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="193.844">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="27.147" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="28.423" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="27.307" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="28.119" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="27.323" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="28.078" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="27.447" classname="uk.co.library.testsuite.JobSearchTest" />
+      
+</testsuite>
